@@ -1,2 +1,2 @@
-# LOW-CODE-WEB
-低代码项目 web 端
+# LOW-CODE-SERVER
+低代码项目 server 端
